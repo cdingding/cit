@@ -19,3 +19,7 @@
 * Go the folder containing the executable file, sampler, and the input files 
 * Use as command line API
 * ./sampler 'formulation.txt' 'formulation_sample_outputs.txt' 1000 
+* the above notebook provides a way to test the output vectors
+
+# Further improvement
+* Optimized the sampling speed
