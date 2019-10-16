@@ -11,7 +11,8 @@
 # Examples
 
 ## 1. Use the package in Jupyter notebook 
-* from citSampler import Constraint,sampler,testOutputVectors 
+* Example import:
+    * from citSampler import Constraint, sampler, testOutputVectors 
 * Follow the ipython notebook to sample and test output vectors
     * Example file: citrine_sampling_and_test_example_Oct16_2019
 
