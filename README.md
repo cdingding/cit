@@ -1,4 +1,6 @@
+
 # Installations
+* Dependencies: python3.x, numpy or Anaconda
 
 ## 1. Clone this sampling package to local folder
 * git clone https://github.com/cdingding/citSampler.git
