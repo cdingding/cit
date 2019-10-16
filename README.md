@@ -1,2 +1,4 @@
-# Under development
-* Hello world!
+# Installations
+
+## Standard Build and Install
+* python setup.py install
