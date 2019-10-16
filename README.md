@@ -18,4 +18,4 @@
 ## 2. Change directory to citSampler containing the executable file "Sampler"
 * Go the folder containing the executable file, sampler, and the input files 
 * Use as command line API
-* ./sampler 'formulation.txt' 'sample_formulation2.txt' 1000 
+* ./sampler 'formulation.txt' 'formulation_sample_outputs.txt' 1000 
