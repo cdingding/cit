@@ -1,7 +1,5 @@
 #!/bin/bash
 python setup.py install
-chmod +x sample.py
-mv sample.py sampler
 
 
 
