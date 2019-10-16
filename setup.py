@@ -4,7 +4,7 @@ setup(
     name='citSampler',
     version='1.0.0',
     packages=['citSampler'],
-    url='',
+    url='https://github.com/cdingding/citSampler.git',
     license='',
     author='Changsong Ding',
     author_email='memsding@gmail.com',
