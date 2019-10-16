@@ -11,7 +11,7 @@ def sampler(input_file, output_file, n_result):
     while len(current_results) < n_result:
         res = np.random.random(ndim)
         res = (res/sum(res)*sum(ct.get_example())).round(5)
-        if ct.apply(res):
+        if not ct.apply(res):
             continue
         current_results.append(res)
     print('example:',ct.get_example())
